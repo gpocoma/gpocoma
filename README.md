@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Galo Pocoma
-- 👀 I’m interested in data analytics, data visualization, game development and economics.
-- 🌱 I’m currently learning Docker and Functional Programming with F#.
+- 👀 I’m interested in data analytics, data visualization, web development with Django.
+- 🌱 I’m currently learning Kubernetes and Android optimization.
 - 💞️ I’m looking to collaborate on game development and data analysis.
 - 📫 You can contact me by writing an email to gpocoma@msn.com. Also you can post issues in my projects.
 <!---
